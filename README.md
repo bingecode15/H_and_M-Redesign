@@ -1,4 +1,4 @@
-## H&M Online Shopping App-Flutter UI
+## H&M Online Shopping App Redesign-Flutter UI
 We created a simple and clean H&M Online Shopping application UI using Flutter.
 
 [Watch it on Youtube]()
