@@ -1,16 +1,6 @@
-# h_and_m
+## H&M Online Shopping App-Flutter UI
+We created a simple and clean H&M Online Shopping application UI using Flutter.
 
-A new Flutter application.
+[Watch it on Youtube](https://www.youtube.com/watch?v=YEJPg2jwzI8&t=24s)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2020-07-26 at 12 06 43 AM](https://user-images.githubusercontent.com/49363982/90254305-26f46900-de60-11ea-827c-24b98fd7f882.jpeg)
