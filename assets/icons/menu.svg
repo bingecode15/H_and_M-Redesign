@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.5" height="23.5" viewBox="0 0 22.5 23.5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22.5" height="23.5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Hamburger" clip-path="url(#clip-path)">
+    <line id="Line_2" data-name="Line 2" x2="19" transform="translate(1.75 1.75)" fill="none" stroke="#f9c0d3" stroke-linecap="round" stroke-width="3.5"/>
+    <line id="Line_3" data-name="Line 3" x2="19" transform="translate(1.75 11.75)" fill="none" stroke="#f9c0d3" stroke-linecap="round" stroke-width="3.5"/>
+    <line id="Line_4" data-name="Line 4" x2="19" transform="translate(1.75 21.75)" fill="none" stroke="#f9c0d3" stroke-linecap="round" stroke-width="3.5"/>
+  </g>
+</svg>
